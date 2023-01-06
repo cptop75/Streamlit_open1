@@ -1,4 +1,5 @@
 Pillow
+sahi
 streamlit
 streamlit-image-comparison
 numpy
